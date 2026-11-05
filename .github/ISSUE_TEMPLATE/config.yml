@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Guides and downloads
+    url: https://guruhat.com
+    about: Install steps and fixes for common problems.
+  - name: Security problem
+    url: https://github.com/getguruhat/.github/blob/main/SECURITY.md
+    about: Please report these privately, not in an issue.
+  - name: Email
+    url: https://guruhat.com/about/
+    about: For anything private, write to hello@guruhat.com.
