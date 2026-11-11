@@ -12,6 +12,7 @@ Thanks for helping. Every GuruHat app is free and open source, with no accounts,
 | ClipHat for Windows | [cliphat-windows](https://github.com/getguruhat/cliphat-windows) | C# |
 | ServerHat for Mac | [serverhat-macos](https://github.com/getguruhat/serverhat-macos) | Swift |
 | ServerHat for Windows | [serverhat-windows](https://github.com/getguruhat/serverhat-windows) | C# |
+| TocaPad | [tocapad-macos](https://github.com/getguruhat/tocapad-macos) | Swift |
 | PC Mode | [PCMode](https://github.com/getguruhat/PCMode) | Swift |
 | RateGuru | [RateGuru](https://github.com/getguruhat/RateGuru) | Kotlin |
 | Homebrew casks | [homebrew-tap](https://github.com/getguruhat/homebrew-tap) | Ruby |
